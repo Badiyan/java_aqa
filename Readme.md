@@ -1,2 +1,1 @@
-Some text
-Update from branch
+JAVA AQA COURSE HOMEWORK TASKS

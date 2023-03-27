@@ -1,0 +1,9 @@
+FROM postgres:latest
+
+ENV POSTGRES_USER badian
+ENV POSTGRES_PASSWORD 1234
+ENV POSTGRES_DB postgres
+
+EXPOSE 4567
+
+CMD ["postgres"]

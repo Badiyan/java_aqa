@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+   <age>27</age>
+   <name>Bohdan</name>
+   <sex>male</sex>
+   <contacts>
+      <city>Kyiv</city>
+      <email>e.mail@mail.com</email>
+      <phone>+3801111111</phone>
+   </contacts>
+   <isEmployed>true</isEmployed>
+   <job_title>Manual QA</job_title>
+   <langs type="programming langs">
+      <lang1>Python</lang1>
+      <lang2>JavaScript</lang2>
+      <lang3>C#</lang3>
+      <lang4>Java</lang4>
+   </langs>
+   <lastBooks>
+      <book1>Колонія, Макс Кідрук</book1>
+      <book2>Воскреситель</book2>
+      <book3>Лафкрафт Том 1</book3>
+   </lastBooks>
+   <isMarried>false</isMarried>
+   <partnerName></partnerName>
+   <temperature>36.6</temperature>
+</student>

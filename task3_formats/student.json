@@ -1,0 +1,19 @@
+{
+	"student":{
+		"name": "Bohdan",
+		"age": 27,
+		"sex": "male",
+		"isEmployed": true,
+		"job_title": "Manual QA",
+		"contacts":{
+			"phone": "+3801111111",
+			"email": "e.mail@mail.com",
+			"city": "Kyiv"
+		},
+		"isMarried": false,
+		"partnerName": null,
+		"lastBooks":["Колонія, Макс Кідрук","Воскреситель","Лафкрафт Том 1"],
+		"langs":["Python","JavaScript","C#","Java"],
+		"temperature": 36.6
+	}
+}
